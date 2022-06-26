@@ -14,7 +14,7 @@ You only need numpy and opencv to be installed on your local python environment 
 
 ## Inspiration
 
-I've seen on many tv shows and especially on "The Conway's Game of Life" simulation. May be, I will be create a animation and add here.
+I've seen on many tv shows (Person of Interest and The Blacklist) and animations such as "Conway's Game of Life". May be, I will create an animation for Conway's Game of Life and add here later.
 
 <img src="images/sample-screenshot-from-theblacklist.png">
 
